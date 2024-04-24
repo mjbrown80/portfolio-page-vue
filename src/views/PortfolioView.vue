@@ -31,7 +31,8 @@ export default {
         return (
           project.name === "meterToFeetConv" ||
           project.name === "KitchenConvertor" ||
-          project.name === "MovieDataBase"
+          project.name === "MovieDataBase" ||
+          project.name === "studio-ghibli"
         );
       });
     });

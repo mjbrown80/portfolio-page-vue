@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a :href="html - url">
+    <a :href="html_url">
       <img class="repo-image" :src="imageSrc" alt="" />
     </a>
     <p><a :href="html_url">{{ title }}</a></p>
