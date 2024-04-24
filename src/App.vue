@@ -84,7 +84,8 @@ nav a.router-link-exact-active {
 .head-shot {
   width: 400px;
   margin: 200px;
-  
+  border: #023E44;
+  border-style: outset;
 }
 
 .hello {
